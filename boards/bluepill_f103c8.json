@@ -9,7 +9,8 @@
   },
   "frameworks": [
     "mbed",
-    "arduino"
+    "arduino",
+    "libopencm3"
   ],
   "name": "BluePill F103C8",
   "upload": {
